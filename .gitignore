@@ -2,6 +2,11 @@
 *.apk
 *.ap_
 
+#Eclipse
+.project
+.classpath
+.settings
+
 # Files for the Dalvik VM
 *.dex
 

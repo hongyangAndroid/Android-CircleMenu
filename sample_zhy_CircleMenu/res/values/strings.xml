@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">鸿洋-ccb</string>
+    <string name="action_settings">博客地址</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
