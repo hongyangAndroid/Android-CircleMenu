@@ -73,5 +73,12 @@ CCBSample 注：千万别问我为什么少一块，建行就是这样的。
 ![Sample Screenshots][2]
 
 
+关于我
+=====
+
+[我的博客地址][3]
+
+
 [1]: https://github.com/hongyangAndroid/CircleMenu/blob/master/sample_zhy_CircleMenu/screen_shot.gif
 [2]: https://github.com/hongyangAndroid/CircleMenu/blob/master/sample_zhy_CircleMenu/ccb.gif
+[3]: http://blog.csdn.net/lmj623565791
