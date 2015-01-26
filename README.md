@@ -1,6 +1,5 @@
 # CircleMenu
-==========================
-provide a simple way to implement a circle menu on android .
+自定义ViewGroup实现的圆形旋转菜单，支持跟随手指旋转以及快速选择。
 
 用法
 =====
