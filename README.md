@@ -1,5 +1,6 @@
 # CircleMenu
 自定义ViewGroup实现的圆形旋转菜单，支持跟随手指旋转以及快速选择。
+图标请勿商用。
 
 用法
 =====
@@ -67,7 +68,7 @@ CircleMenuSample
 
 ![Sample Screenshots][1]
 
-CCBSample
+CCBSample 注：千万别问我为什么少一块，建行就是这样的。
 
 ![Sample Screenshots][2]
 
