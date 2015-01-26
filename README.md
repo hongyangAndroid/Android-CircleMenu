@@ -5,6 +5,7 @@ provide a simple way to implement a circle menu on android .
 用法
 =====
 1、布局文件中声明控件
+
 <com.zhy.view.CircleMenuLayout
 	android:id="@+id/id_menulayout"
 	android:layout_width="match_parent"
@@ -14,6 +15,7 @@ provide a simple way to implement a circle menu on android .
 </com.zhy.view.CircleMenuLayout>
 
 2、Activity的onCreate中；或者Fragment的onCreateView中
+
 public class CircleActivity extends Activity
 {
 
@@ -41,6 +43,7 @@ public class CircleActivity extends Activity
 }
 
 3、添加点击事件
+
 mCircleMenuLayout.setOnMenuItemClickListener(new OnMenuItemClickListener()
 {
 	@Override
@@ -61,11 +64,14 @@ mCircleMenuLayout.setOnMenuItemClickListener(new OnMenuItemClickListener()
 
 效果图
 =====
-![Sample Screenshots][1]
+
 CircleMenuSample
 
-![Sample Screenshots][2]
+![Sample Screenshots][1]
+
 CCBSample
+
+![Sample Screenshots][2]
 
 
 [1]: https://github.com/hongyangAndroid/CircleMenu/blob/master/sample_zhy_CircleMenu/screen_shot.gif
